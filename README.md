@@ -1,6 +1,7 @@
 # EdQuest
 This is Mern Stack Project in which gives way to students to access and  way students access educational resources.
 
+ Technologies used: REACT JS , MONGODB, EXPRESS JS , NODEJS , EXPRESS JS AND FIGMA for UI design .
 
 Key Features:
 
